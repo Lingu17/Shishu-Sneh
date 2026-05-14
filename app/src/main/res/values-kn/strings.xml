@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ಶಿಶು-ಸ್ನೇಹ</string>
+    <string name="welcome_message">ಮಗುವಿನ ಮೊದಲ ವರ್ಷದ ಮಾರ್ಗದರ್ಶಿ</string>
+    <string name="growth_chart">ಬೆಳವಣಿಗೆಯ ಚಾರ್ಟ್</string>
+    <string name="vaccination_alert">ಲಸಿಕೆ ಎಚ್ಚರಿಕೆಗಳು</string>
+    <string name="feeding_guide">ಹಾಲುಣಿಸುವ ಮಾರ್ಗದರ್ಶಿ</string>
+    <string name="milestones">ಮೈಲಿಗಲ್ಲುಗಳು</string>
+    <string name="save">ಉಳಿಸು</string>
+    <string name="enter_weight">ತೂಕವನ್ನು ನಮೂದಿಸಿ (ಕೆಜಿ)</string>
+    <string name="enter_height">ಎತ್ತರವನ್ನು ನಮೂದಿಸಿ (ಸೆಂ.ಮೀ)</string>
+</resources>

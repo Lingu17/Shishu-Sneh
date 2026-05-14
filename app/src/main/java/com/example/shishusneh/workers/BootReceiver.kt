@@ -1,0 +1,30 @@
+package com.example.shishusneh.workers
+
+import android.content.BroadcastReceiver
+import android.content.Context
+import android.content.Intent
+import androidx.work.ExistingPeriodicWorkPolicy
+import androidx.work.PeriodicWorkRequestBuilder
+import androidx.work.WorkManager
+import java.util.concurrent.TimeUnit
+
+class BootReceiver : BroadcastReceiver() {
+    override fun onReceive(context: Context, intent: Intent) {
+        if (intent.action == Intent.ACTION_BOOT_COMPLETED) {
+            scheduleVaccinationReminders(context)
+        }
+    }
+
+    companion object {
+        fun scheduleVaccinationReminders(context: Context) {
+            val request = PeriodicWorkRequestBuilder<VaccinationReminderWorker>(1, TimeUnit.DAYS)
+                .build()
+
+            WorkManager.getInstance(context).enqueueUniquePeriodicWork(
+                "VaccinationReminder",
+                ExistingPeriodicWorkPolicy.KEEP,
+                request,
+            )
+        }
+    }
+}

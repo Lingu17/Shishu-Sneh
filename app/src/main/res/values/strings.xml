@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Shishu-Sneh</string>
+    <string name="welcome_message">Baby\'s First Year Guide</string>
+    <string name="growth_chart">Growth Chart</string>
+    <string name="vaccination_alert">Vaccination Alerts</string>
+    <string name="feeding_guide">Feeding Guide</string>
+    <string name="milestones">Milestones</string>
+    <string name="save">Save</string>
+    <string name="enter_weight">Enter Weight (kg)</string>
+    <string name="enter_height">Enter Height (cm)</string>
+    <string name="app_logo_description">Shishu-Sneh Logo</string>
+</resources>

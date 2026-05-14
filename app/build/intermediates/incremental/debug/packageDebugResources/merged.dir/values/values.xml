@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accentColor">#0D9488</color>
+    <color name="accentDarkColor">#0F766E</color>
+    <color name="accentLightColor">#F0FDFA</color>
+    <color name="accent_diaper">#8B5CF6</color>
+    <color name="accent_feeding">#0D9488</color>
+    <color name="accent_growth">#10B981</color>
+    <color name="accent_sleep">#6366F1</color>
+    <color name="backgroundColor">#F8FAFC</color>
+    <color name="color_diaper">#8B5CF6</color>
+    <color name="color_diaper_bg">#F5F3FF</color>
+    <color name="color_feeding">#0D9488</color>
+    <color name="color_feeding_bg">#F0FDFA</color>
+    <color name="color_growth">#10B981</color>
+    <color name="color_growth_bg">#ECFDF5</color>
+    <color name="color_sleep">#6366F1</color>
+    <color name="color_sleep_bg">#EEF2FF</color>
+    <color name="dividerColor">#E2E8F0</color>
+    <color name="error_red">#EF4444</color>
+    <color name="green_bg">#ECFDF5</color>
+    <color name="green_text">#10B981</color>
+    <color name="primaryColor">#0F172A</color>
+    <color name="primaryDarkColor">#020617</color>
+    <color name="primaryLightColor">#F1F5F9</color>
+    <color name="primaryTextColor">#0F172A</color>
+    <color name="secondaryTextColor">#64748B</color>
+    <color name="status_completed">#10B981</color>
+    <color name="status_completed_bg">#ECFDF5</color>
+    <color name="status_overdue">#EF4444</color>
+    <color name="status_overdue_bg">#FEF2F2</color>
+    <color name="status_upcoming">#3B82F6</color>
+    <color name="success_green">#10B981</color>
+    <color name="urgent_red">#FEF2F2</color>
+    <color name="urgent_text">#EF4444</color>
+    <color name="white">#FFFFFF</color>
+    <string name="app_logo_description">Shishu-Sneh Logo</string>
+    <string name="app_name">Shishu-Sneh</string>
+    <string name="enter_height">Enter Height (cm)</string>
+    <string name="enter_weight">Enter Weight (kg)</string>
+    <string name="feeding_guide">Feeding Guide</string>
+    <string name="gcm_defaultSenderId" translatable="false">1097840096433</string>
+    <string name="google_api_key" translatable="false">AIzaSyCHBnwAZQatCONdsSCrRHZ6mB1D9qN_5yw</string>
+    <string name="google_app_id" translatable="false">1:1097840096433:android:a6f922ca40338b77551e90</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCHBnwAZQatCONdsSCrRHZ6mB1D9qN_5yw</string>
+    <string name="google_storage_bucket" translatable="false">shishu-sneh.firebasestorage.app</string>
+    <string name="growth_chart">Growth Chart</string>
+    <string name="milestones">Milestones</string>
+    <string name="project_id" translatable="false">shishu-sneh</string>
+    <string name="save">Save</string>
+    <string name="vaccination_alert">Vaccination Alerts</string>
+    <string name="welcome_message">Baby\'s First Year Guide</string>
+    <style name="App.ActiveIndicator" parent="Widget.Material3.BottomNavigationView.ActiveIndicator">
+        <item name="android:color">#E0F2F1</item>
+        <item name="android:width">48dp</item>
+        <item name="android:height">48dp</item>
+    </style>
+    <style name="PremiumCard" parent="Widget.Material3.CardView.Elevated">
+        <item name="cardCornerRadius">24dp</item>
+        <item name="cardElevation">2dp</item>
+        <item name="cardBackgroundColor">@color/white</item>
+        <item name="strokeWidth">0dp</item>
+    </style>
+    <style name="TextBody" parent="TextAppearance.Material3.BodyMedium">
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textColor">@color/secondaryTextColor</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+    <style name="TextBodyBold" parent="TextAppearance.Material3.BodyLarge">
+        <item name="android:fontFamily">sans-serif-black</item>
+        <item name="android:textColor">@color/primaryTextColor</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+    <style name="TextHeadline" parent="TextAppearance.Material3.HeadlineMedium">
+        <item name="android:fontFamily">sans-serif-black</item>
+        <item name="android:textColor">@color/primaryTextColor</item>
+        <item name="android:textSize">26sp</item>
+        <item name="android:letterSpacing">-0.01</item>
+    </style>
+    <style name="TextSection" parent="TextAppearance.Material3.TitleMedium">
+        <item name="android:fontFamily">sans-serif-medium</item>
+        <item name="android:textColor">@color/primaryTextColor</item>
+        <item name="android:textSize">18sp</item>
+    </style>
+    <style name="TextSubtitle" parent="TextAppearance.Material3.TitleSmall">
+        <item name="android:fontFamily">sans-serif-medium</item>
+        <item name="android:textColor">@color/secondaryTextColor</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+    <style name="TextTitle" parent="TextAppearance.Material3.TitleLarge">
+        <item name="android:fontFamily">sans-serif-black</item>
+        <item name="android:textColor">@color/primaryTextColor</item>
+        <item name="android:textSize">20sp</item>
+    </style>
+    <style name="Theme.ShishuSneh" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/accentColor</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorPrimaryContainer">@color/accentLightColor</item>
+        <item name="colorOnPrimaryContainer">@color/accentDarkColor</item>
+        
+        <item name="colorSecondary">@color/primaryColor</item>
+        <item name="colorOnSecondary">@color/white</item>
+
+        <item name="android:windowBackground">@color/backgroundColor</item>
+        <item name="android:statusBarColor">@color/backgroundColor</item>
+        <item name="android:windowLightStatusBar">true</item>
+
+        <item name="android:fontFamily">sans-serif-medium</item>
+    </style>
+</resources>

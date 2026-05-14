@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Premium Brand Colors (Deep Teal System) -->
+    <color name="primaryColor">#0F2E2E</color>
+    <color name="primaryLightColor">#1F5F5B</color>
+    <color name="primaryDarkColor">#001414</color>
+    <color name="accentColor">#2EC4B6</color>
+    <color name="accentLightColor">#E0F2F1</color>
+    <color name="accentDarkColor">#208B80</color>
+    <color name="backgroundColor">#F7F9FB</color>
+    <color name="white">#FFFFFF</color>
+
+    <!-- Semantic / Status Colors -->
+    <color name="status_success">#22C55E</color>
+    <color name="status_warning">#F59E0B</color>
+    <color name="status_danger">#EF4444</color>
+
+    <!-- UI Accent Palette (Subtle Tints for Insights) -->
+    <color name="tint_sleep">#1A2EC4B6</color> <!-- 10% Teal -->
+    <color name="tint_feeding">#1A1F5F5B</color> <!-- 10% Deep Teal -->
+    <color name="tint_growth">#1A22C55E</color> <!-- 10% Success Green -->
+
+    <!-- Text & Dividers -->
+    <color name="primaryTextColor">#0F172A</color>
+    <color name="secondaryTextColor">#64748B</color>
+    <color name="dividerColor">#E2E8F0</color>
+
+    <!-- Compatibility Aliases (to fix linking errors) -->
+    <color name="status_completed">@color/status_success</color>
+    <color name="status_completed_bg">#DCFCE7</color> <!-- Light Success Green -->
+    <color name="status_upcoming">@color/primaryColor</color>
+    <color name="status_overdue">@color/status_danger</color>
+    <color name="status_overdue_bg">#FEF2F2</color> <!-- Light Error Red -->
+    <color name="urgent_text">@color/status_danger</color>
+    <color name="error_red">@color/status_danger</color>
+    <color name="success_green">@color/status_success</color>
+    <color name="green_bg">#DCFCE7</color>
+    <color name="green_text">#166534</color>
+
+    <!-- Activity Legacy Accents -->
+    <color name="accent_sleep">@color/accentColor</color>
+    <color name="accent_feeding">@color/primaryLightColor</color>
+    <color name="accent_growth">@color/status_success</color>
+    <color name="accent_diaper">@color/primaryColor</color>
+</resources>

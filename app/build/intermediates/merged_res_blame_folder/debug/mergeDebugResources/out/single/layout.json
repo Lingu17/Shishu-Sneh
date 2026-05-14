@@ -1,0 +1,114 @@
+[
+    {
+        "merged": "C:\\Users\\Lingu\\.gradle\\daemon\\9.4.1\\com.example.shishusneh.app-mergeDebugResources-50:\\layout\\activity_growth_chart.xml",
+        "source": "C:\\Users\\Lingu\\.gradle\\daemon\\9.4.1\\com.example.shishusneh.app-main-53:\\layout\\activity_growth_chart.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lingu\\.gradle\\daemon\\9.4.1\\com.example.shishusneh.app-mergeDebugResources-50:\\layout\\activity_login.xml",
+        "source": "C:\\Users\\Lingu\\.gradle\\daemon\\9.4.1\\com.example.shishusneh.app-main-53:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lingu\\.gradle\\daemon\\9.4.1\\com.example.shishusneh.app-mergeDebugResources-50:\\layout\\item_milestone.xml",
+        "source": "C:\\Users\\Lingu\\.gradle\\daemon\\9.4.1\\com.example.shishusneh.app-main-53:\\layout\\item_milestone.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lingu\\.gradle\\daemon\\9.4.1\\com.example.shishusneh.app-mergeDebugResources-50:\\layout\\activity_milestones.xml",
+        "source": "C:\\Users\\Lingu\\.gradle\\daemon\\9.4.1\\com.example.shishusneh.app-main-53:\\layout\\activity_milestones.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lingu\\.gradle\\daemon\\9.4.1\\com.example.shishusneh.app-mergeDebugResources-50:\\layout\\dialog_add_feeding.xml",
+        "source": "C:\\Users\\Lingu\\.gradle\\daemon\\9.4.1\\com.example.shishusneh.app-main-53:\\layout\\dialog_add_feeding.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lingu\\.gradle\\daemon\\9.4.1\\com.example.shishusneh.app-mergeDebugResources-50:\\layout\\item_timeline.xml",
+        "source": "C:\\Users\\Lingu\\.gradle\\daemon\\9.4.1\\com.example.shishusneh.app-main-53:\\layout\\item_timeline.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lingu\\.gradle\\daemon\\9.4.1\\com.example.shishusneh.app-mergeDebugResources-50:\\layout\\activity_add_baby.xml",
+        "source": "C:\\Users\\Lingu\\.gradle\\daemon\\9.4.1\\com.example.shishusneh.app-main-53:\\layout\\activity_add_baby.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lingu\\.gradle\\daemon\\9.4.1\\com.example.shishusneh.app-mergeDebugResources-50:\\layout\\activity_splash.xml",
+        "source": "C:\\Users\\Lingu\\.gradle\\daemon\\9.4.1\\com.example.shishusneh.app-main-53:\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lingu\\.gradle\\daemon\\9.4.1\\com.example.shishusneh.app-mergeDebugResources-50:\\layout\\activity_vaccination.xml",
+        "source": "C:\\Users\\Lingu\\.gradle\\daemon\\9.4.1\\com.example.shishusneh.app-main-53:\\layout\\activity_vaccination.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lingu\\.gradle\\daemon\\9.4.1\\com.example.shishusneh.app-mergeDebugResources-50:\\layout\\bottom_sheet_set_alert.xml",
+        "source": "C:\\Users\\Lingu\\.gradle\\daemon\\9.4.1\\com.example.shishusneh.app-main-53:\\layout\\bottom_sheet_set_alert.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lingu\\.gradle\\daemon\\9.4.1\\com.example.shishusneh.app-mergeDebugResources-50:\\layout\\fragment_growth.xml",
+        "source": "C:\\Users\\Lingu\\.gradle\\daemon\\9.4.1\\com.example.shishusneh.app-main-53:\\layout\\fragment_growth.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lingu\\.gradle\\daemon\\9.4.1\\com.example.shishusneh.app-mergeDebugResources-50:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Lingu\\.gradle\\daemon\\9.4.1\\com.example.shishusneh.app-main-53:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lingu\\.gradle\\daemon\\9.4.1\\com.example.shishusneh.app-mergeDebugResources-50:\\layout\\activity_signup.xml",
+        "source": "C:\\Users\\Lingu\\.gradle\\daemon\\9.4.1\\com.example.shishusneh.app-main-53:\\layout\\activity_signup.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lingu\\.gradle\\daemon\\9.4.1\\com.example.shishusneh.app-mergeDebugResources-50:\\layout\\dialog_add_diaper.xml",
+        "source": "C:\\Users\\Lingu\\.gradle\\daemon\\9.4.1\\com.example.shishusneh.app-main-53:\\layout\\dialog_add_diaper.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lingu\\.gradle\\daemon\\9.4.1\\com.example.shishusneh.app-mergeDebugResources-50:\\layout\\bottom_sheet_settings.xml",
+        "source": "C:\\Users\\Lingu\\.gradle\\daemon\\9.4.1\\com.example.shishusneh.app-main-53:\\layout\\bottom_sheet_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lingu\\.gradle\\daemon\\9.4.1\\com.example.shishusneh.app-mergeDebugResources-50:\\layout\\fragment_vaccination.xml",
+        "source": "C:\\Users\\Lingu\\.gradle\\daemon\\9.4.1\\com.example.shishusneh.app-main-53:\\layout\\fragment_vaccination.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lingu\\.gradle\\daemon\\9.4.1\\com.example.shishusneh.app-mergeDebugResources-50:\\layout\\dialog_add_growth.xml",
+        "source": "C:\\Users\\Lingu\\.gradle\\daemon\\9.4.1\\com.example.shishusneh.app-main-53:\\layout\\dialog_add_growth.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lingu\\.gradle\\daemon\\9.4.1\\com.example.shishusneh.app-mergeDebugResources-50:\\layout\\item_nutrition_tip.xml",
+        "source": "C:\\Users\\Lingu\\.gradle\\daemon\\9.4.1\\com.example.shishusneh.app-main-53:\\layout\\item_nutrition_tip.xml"
+    },
+    {
+        "merged": "com.example.shishusneh.app-mergeDebugResources-50:/layout/fragment_home.xml",
+        "source": "com.example.shishusneh.app-main-53:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lingu\\.gradle\\daemon\\9.4.1\\com.example.shishusneh.app-mergeDebugResources-50:\\layout\\activity_feeding_guide.xml",
+        "source": "C:\\Users\\Lingu\\.gradle\\daemon\\9.4.1\\com.example.shishusneh.app-main-53:\\layout\\activity_feeding_guide.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lingu\\.gradle\\daemon\\9.4.1\\com.example.shishusneh.app-mergeDebugResources-50:\\layout\\item_vaccination.xml",
+        "source": "C:\\Users\\Lingu\\.gradle\\daemon\\9.4.1\\com.example.shishusneh.app-main-53:\\layout\\item_vaccination.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lingu\\.gradle\\daemon\\9.4.1\\com.example.shishusneh.app-mergeDebugResources-50:\\layout\\fragment_milestones.xml",
+        "source": "C:\\Users\\Lingu\\.gradle\\daemon\\9.4.1\\com.example.shishusneh.app-main-53:\\layout\\fragment_milestones.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lingu\\.gradle\\daemon\\9.4.1\\com.example.shishusneh.app-mergeDebugResources-50:\\layout\\item_growth_history.xml",
+        "source": "C:\\Users\\Lingu\\.gradle\\daemon\\9.4.1\\com.example.shishusneh.app-main-53:\\layout\\item_growth_history.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lingu\\.gradle\\daemon\\9.4.1\\com.example.shishusneh.app-mergeDebugResources-50:\\layout\\dialog_edit_profile.xml",
+        "source": "C:\\Users\\Lingu\\.gradle\\daemon\\9.4.1\\com.example.shishusneh.app-main-53:\\layout\\dialog_edit_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lingu\\.gradle\\daemon\\9.4.1\\com.example.shishusneh.app-mergeDebugResources-50:\\layout\\bottom_sheet_log_activity.xml",
+        "source": "C:\\Users\\Lingu\\.gradle\\daemon\\9.4.1\\com.example.shishusneh.app-main-53:\\layout\\bottom_sheet_log_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lingu\\.gradle\\daemon\\9.4.1\\com.example.shishusneh.app-mergeDebugResources-50:\\layout\\fragment_feeding.xml",
+        "source": "C:\\Users\\Lingu\\.gradle\\daemon\\9.4.1\\com.example.shishusneh.app-main-53:\\layout\\fragment_feeding.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lingu\\.gradle\\daemon\\9.4.1\\com.example.shishusneh.app-mergeDebugResources-50:\\layout\\dialog_add_sleep.xml",
+        "source": "C:\\Users\\Lingu\\.gradle\\daemon\\9.4.1\\com.example.shishusneh.app-main-53:\\layout\\dialog_add_sleep.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lingu\\.gradle\\daemon\\9.4.1\\com.example.shishusneh.app-mergeDebugResources-50:\\layout\\fragment_home.xml",
+        "source": "C:\\Users\\Lingu\\.gradle\\daemon\\9.4.1\\com.example.shishusneh.app-main-53:\\layout\\fragment_home.xml"
+    }
+]

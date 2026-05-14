@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/white"
+    android:orientation="vertical"
+    android:padding="24dp">
+
+    <View
+        android:layout_width="40dp"
+        android:layout_height="4dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginBottom="24dp"
+        android:background="#E0E0E0" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="24dp"
+        android:fontFamily="sans-serif-black"
+        android:text="Select activity to log"
+        android:textColor="@color/primaryTextColor"
+        android:textSize="20sp" />
+
+    <GridLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:columnCount="2"
+        android:rowCount="2">
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/btnLogFeeding"
+            style="@style/Widget.Material3.Button.TonalButton"
+            android:layout_width="0dp"
+            android:layout_height="100dp"
+            android:layout_columnWeight="1"
+            android:layout_margin="8dp"
+            android:text="Feeding"
+            android:textColor="#C2185B"
+            android:fontFamily="sans-serif-bold"
+            app:backgroundTint="#FCE4EC"
+            app:cornerRadius="16dp"
+            app:icon="@drawable/ic_feeding"
+            app:iconTint="#C2185B"
+            app:iconGravity="top"
+            app:iconPadding="8dp"
+            app:iconSize="32dp"/>
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/btnLogSleep"
+            style="@style/Widget.Material3.Button.TonalButton"
+            android:layout_width="0dp"
+            android:layout_height="100dp"
+            android:layout_columnWeight="1"
+            android:layout_margin="8dp"
+            android:text="Sleeping"
+            android:textColor="#E65100"
+            android:fontFamily="sans-serif-bold"
+            app:backgroundTint="#FFF3E0"
+            app:cornerRadius="16dp"
+            app:icon="@drawable/ic_sleep"
+            app:iconTint="#E65100"
+            app:iconGravity="top"
+            app:iconPadding="8dp"
+            app:iconSize="32dp"/>
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/btnLogGrowth"
+            style="@style/Widget.Material3.Button.TonalButton"
+            android:layout_width="0dp"
+            android:layout_height="100dp"
+            android:layout_columnWeight="1"
+            android:layout_margin="8dp"
+            android:text="Growth"
+            android:textColor="#0D47A1"
+            android:fontFamily="sans-serif-bold"
+            app:backgroundTint="#E3F2FD"
+            app:cornerRadius="16dp"
+            app:icon="@drawable/ic_growth"
+            app:iconTint="#0D47A1"
+            app:iconGravity="top"
+            app:iconPadding="8dp"
+            app:iconSize="32dp"/>
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/btnLogDiaper"
+            style="@style/Widget.Material3.Button.TonalButton"
+            android:layout_width="0dp"
+            android:layout_height="100dp"
+            android:layout_columnWeight="1"
+            android:layout_margin="8dp"
+            android:text="Diaper"
+            android:textColor="#4A148C"
+            android:fontFamily="sans-serif-bold"
+            app:backgroundTint="#F3E5F5"
+            app:cornerRadius="16dp"
+            app:icon="@drawable/ic_profile"
+            app:iconTint="#4A148C"
+            app:iconGravity="top"
+            app:iconPadding="8dp"
+            app:iconSize="32dp"/>
+
+    </GridLayout>
+
+</LinearLayout>

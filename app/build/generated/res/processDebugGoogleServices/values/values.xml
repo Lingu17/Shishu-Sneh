@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">1097840096433</string>
+    <string name="google_api_key" translatable="false">AIzaSyCHBnwAZQatCONdsSCrRHZ6mB1D9qN_5yw</string>
+    <string name="google_app_id" translatable="false">1:1097840096433:android:a6f922ca40338b77551e90</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCHBnwAZQatCONdsSCrRHZ6mB1D9qN_5yw</string>
+    <string name="google_storage_bucket" translatable="false">shishu-sneh.firebasestorage.app</string>
+    <string name="project_id" translatable="false">shishu-sneh</string>
+</resources>

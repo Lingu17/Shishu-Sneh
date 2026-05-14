@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">शिशु-स्नेह</string>
+    <string name="welcome_message">बच्चे के पहले वर्ष का मार्गदर्शन</string>
+    <string name="growth_chart">विकास चार्ट</string>
+    <string name="vaccination_alert">टीकाकरण अलर्ट</string>
+    <string name="feeding_guide">दूध पिलाने की गाइड</string>
+    <string name="milestones">विकास के पड़ाव</string>
+    <string name="save">सहेजें</string>
+    <string name="enter_weight">वजन दर्ज करें (किग्रा)</string>
+    <string name="enter_height">ऊंचाई दर्ज करें (सेमी)</string>
+</resources>
