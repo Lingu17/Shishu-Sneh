@@ -133,6 +133,15 @@ Shishu-Sneh solves this problem by providing a centralized smart baby care syste
 ---
 
 # 📸 Screens Included
+<img width="1080" height="2212" alt="image" src="https://github.com/user-attachments/assets/8218f0bd-9952-48bc-969c-c7e40f9ec4cb" />
+<img width="1080" height="2212" alt="image" src="https://github.com/user-attachments/assets/8242628c-9e90-4b4f-b1a9-48ae8c4566a0" />
+<img width="1080" height="2212" alt="image" src="https://github.com/user-attachments/assets/117ba00a-4136-4a1a-8f6a-e16a3b0e56e5" />
+
+<img width="781" height="1600" alt="image" src="https://github.com/user-attachments/assets/357f6383-f102-4089-a3b6-ffa68bfa9aa1" />
+<img width="781" height="1600" alt="image" src="https://github.com/user-attachments/assets/1731675c-ebdf-4fc5-9382-d42ac949f9a1" />
+<img width="781" height="1600" alt="image" src="https://github.com/user-attachments/assets/3e0b6f85-103c-4ca2-ac84-137a738e6805" />
+<img width="781" height="1600" alt="image" src="https://github.com/user-attachments/assets/d8811f96-0512-423b-b4ef-60ca46a817ea" />
+<img width="781" height="1600" alt="image" src="https://github.com/user-attachments/assets/6aeb6475-8b1d-4a85-b78a-2e70c9360593" />
 
 - Splash Screen
 - Login Screen
