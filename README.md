@@ -133,6 +133,15 @@ Shishu-Sneh solves this problem by providing a centralized smart baby care syste
 ---
 
 # 📸 Screens Included
+<img width="781" height="1600" alt="image" src="https://github.com/user-attachments/assets/ca3953c0-7aa4-4689-b6e5-481829ba2488" />
+<img width="781" height="1600" alt="image" src="https://github.com/user-attachments/assets/86c35fa3-0f54-4bdb-b94b-56dd7412c85b" />
+<img width="781" height="1600" alt="image" src="https://github.com/user-attachments/assets/f884dcb1-5368-4e2f-a52d-30abfdd6f282" />
+<img width="781" height="1600" alt="image" src="https://github.com/user-attachments/assets/a8219e5c-41a1-473c-9462-4801823f7007" />
+<img width="781" height="1600" alt="image" src="https://github.com/user-attachments/assets/d19e5e12-6a8f-4b41-8e86-a6d9affc01e7" />
+
+
+
+
 
 - Splash Screen
 - Login Screen
